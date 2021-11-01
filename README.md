@@ -20,12 +20,11 @@ Very Sempil Bot Auto Filter bot
 
 ## Installation
 
-###[Original repo]😌
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/ALPHA_IMDB_BOT)
+#)
 
 
 ###ANNA BEN REPO
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrProfessor999/anna-ben-repo)
 ### Hard Way
 
 ```bash
