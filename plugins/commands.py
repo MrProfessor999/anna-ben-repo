@@ -21,13 +21,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('©️channel', url='https://t.me/BOTS_GARAGE'),
+            InlineKeyboardButton('©️channel', url='https://t.me/TESSA_DOG_BOT'),
             InlineKeyboardButton('♻️Group', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/Unni0240')
+            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/N_A_V_I_P_A_V_I')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -67,7 +67,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('😉ᦔꫀꪜ', url='https://t.me/Unni0240')
+            InlineKeyboardButton('😉ᦔꫀꪜ', url='https://t.me/N_A_V_I_P_A_V_I')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
