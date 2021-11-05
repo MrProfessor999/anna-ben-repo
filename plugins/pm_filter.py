@@ -364,13 +364,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/sabrinafilter_bot?startgroup=true')
             ],[
-            InlineKeyboardButton('©️Channel', url='https://t.me/BOTS_GARAGE'),
+            InlineKeyboardButton('©️Channel', url='https://t.me/TESSA_DOG_BOT'),
             InlineKeyboardButton('♻️Group', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
             ],[
-            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/Unni0240')
+            InlineKeyboardButton('ᦔꫀꪜ', url='https://t.me/N_A_V_I_P_A_V_I')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
